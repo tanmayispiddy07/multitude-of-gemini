@@ -48,7 +48,7 @@ Each notebook is self-contained and provides a detailed walkthrough of the proce
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is preserved under copyrights.
 
 
 
