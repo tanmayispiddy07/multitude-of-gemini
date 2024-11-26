@@ -40,7 +40,8 @@ our suggestion is to use kaggle notebooks for not getting any issues.
 
    - **Objective:** Improve ML model efficiency through Gemini-assisted tuning.
    - **Description:** This notebook demonstrates how Gemini suggestions can be integrated into training workflows to optimize parameters, enhance accuracy, and improve model generalization.
-
+###Overall Notebook
+in  file mma24-11
 ## Usage
 
 Each notebook is self-contained and provides a detailed walkthrough of the processes and results for each application. After installation, simply run the notebooks in sequence or select the ones relevant to your interest.
